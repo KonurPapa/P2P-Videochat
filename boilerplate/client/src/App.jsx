@@ -239,7 +239,7 @@ function App() {
 
     return (
         <div style={{ padding: '20px', fontFamily: 'sans-serif', maxWidth: '800px', margin: '0 auto', textAlign: 'center' }}>
-            <h1>| PipeLine</h1>
+            <h1>| P2P Videochat</h1>
             <p>Peer-to-Peer Conferencing Local Testing</p>
 
             {popoutWindow && createPortal(videoSection, popoutWindow.document.getElementById('popout-root'))}

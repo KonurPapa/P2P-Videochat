@@ -9,23 +9,14 @@ import { getAnalytics } from "firebase/analytics";
 
 
 const firebaseConfig = {
-
-  apiKey: "AIzaSyAJsoUcK9tcfS1FGkWlXBDkgAh7BzcdK8c",
-
+  apiKey: "AIzaSyCJnrN3jkXX9pEYdTXE0u-I-CfD9EAS3M0",
   authDomain: "pipe-messenger-0.firebaseapp.com",
-
   databaseURL: "https://pipe-messenger-0-default-rtdb.firebaseio.com",
-
   projectId: "pipe-messenger-0",
-
   storageBucket: "pipe-messenger-0.firebasestorage.app",
-
   messagingSenderId: "1034079740336",
-
   appId: "1:1034079740336:web:f90292eb2a82e7baaa3675",
-
   measurementId: "G-J5HJSXN9RT"
-
 };
 
 
