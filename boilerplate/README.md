@@ -1,6 +1,6 @@
-# Sovereign Messenger Boilerplate
+# P2P Videochat
 
-This boilerplate template is derived from a conversation (`ai_dialog.txt`) outlining an end-to-end encrypted (E2EE), decentralized video-messenger. It is specifically designed with an engineer-first approach, prioritizing privacy, security, and true a "zero-trust" architecture.
+This boilerplate template outlines an end-to-end encrypted (E2EE), decentralized video-messenger. It is specifically designed with an engineer-first approach, prioritizing privacy, security, and true a "zero-trust" architecture.
 
 ## Architecture
 
@@ -22,7 +22,7 @@ npm run install:all
 
 ### 2. Running the Headless Holesail Server (The Host)
 
-Engineers can run this locally to mock a headless E2EE Holesail broadcast node:
+Run this locally to mock a headless E2EE Holesail broadcast node:
 ```bash
 npm run start:host 
 # Or: node server/index.cjs
